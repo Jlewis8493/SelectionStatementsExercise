@@ -1,0 +1,13 @@
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.deps.json
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.runtimeconfig.json
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.runtimeconfig.dev.json
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.dll
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.pdb
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.csproj.AssemblyReference.cache
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.AssemblyInfoInputs.cache
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.AssemblyInfo.cs
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.dll
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.pdb
+/Users/jared/Repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.genruntimeconfig.cache
